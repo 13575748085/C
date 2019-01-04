@@ -16,7 +16,7 @@ int main(void)
 		mod=m%n;
 		printf("sum=%d\nsub=%d\nmul=%d\ndiv=%d\nmod=%d",sum,sub,mul,div,mod);
 		printf("\n---------------------------------------------------\n");
-	}
+	        }
 	
 	return 0;
 }
